@@ -126,13 +126,3 @@ However, most of this project are available under a separate license terms: all 
 
 Any form of use and derivative of this code must preserve the watermarking functionality showing "AI Generated".
 
-## BibTeX
-
-```bibtex
-@inproceedings{pan2023draggan,
-    title={Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold},
-    author={Pan, Xingang and Tewari, Ayush, and Leimk{\"u}hler, Thomas and Liu, Lingjie and Meka, Abhimitra and Theobalt, Christian},
-    booktitle = {ACM SIGGRAPH 2023 Conference Proceedings},
-    year={2023}
-}
-```
